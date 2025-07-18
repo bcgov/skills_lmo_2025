@@ -1,0 +1,11 @@
+---
+title: "github workflow"
+format: html
+
+---
+
+## Create a branch to work on:
+
+usethis::pr_init("boxplots_with_data")
+
+
